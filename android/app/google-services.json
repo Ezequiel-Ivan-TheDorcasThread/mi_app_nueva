@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734106520080",
+    "project_id": "the-dorcas-thread",
+    "storage_bucket": "the-dorcas-thread.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734106520080:android:622eba564dcb9bbbba5895",
+        "android_client_info": {
+          "package_name": "com.example.mi_app_nueva"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwzU7RZb-3Q3iZzvrz4n5avT8_P7Sy61E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
